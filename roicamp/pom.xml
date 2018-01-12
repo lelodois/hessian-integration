@@ -5,10 +5,10 @@
 
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>br.com.lelo</groupId>
-	<artifactId>roicamp</artifactId>
+	<artifactId>hessian-roicamp</artifactId>
 	<packaging>jar</packaging>
 	<version>1.0.0</version>
-	<name>roicamp</name>
+	<name>hessian-roicamp</name>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>

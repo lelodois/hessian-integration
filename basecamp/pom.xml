@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>br.com.lelo</groupId>
-	<artifactId>basecamp</artifactId>
+	<artifactId>hessian-basecamp</artifactId>
 	<version>1.0.0</version>
 	<packaging>jar</packaging>
 
-	<name>basecamp</name>
+	<name>hessian-basecamp</name>
 	<description>Base da campanha</description>
 
 	<parent>

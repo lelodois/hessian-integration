@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>br.com.lelo</groupId>
-	<artifactId>financecamp</artifactId>
+	<artifactId>hessian-financecamp</artifactId>
 	<version>1.0.0</version>
 	<packaging>jar</packaging>
 
-	<name>financecamp</name>
+	<name>hessian-financecamp</name>
 	<description>Financeiro da campanha</description>
 
 	<parent>
