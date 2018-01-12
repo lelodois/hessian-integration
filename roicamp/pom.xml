@@ -26,7 +26,7 @@
 
 		<dependency>
 			<groupId>br.com.lelo</groupId>
-			<artifactId>basecamp</artifactId>
+			<artifactId>hessian-basecamp</artifactId>
 			<version>1.0.0</version>
 		</dependency>
 
